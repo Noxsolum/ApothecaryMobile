@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Carryable
+  - Ingredient
+  - Potion
+  - Herb
+  - Refiner
+  - UI
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - Audio
+  - Recipes
+  - Timer
+  - Bin
+  - Cauldron
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Carryable
+  - Droppable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3995126427
+    locked: 0
+  - name: Desk
+    uniqueID: 1290907903
+    locked: 0
+  - name: Object
+    uniqueID: 2149234087
+    locked: 0
